@@ -1,0 +1,15 @@
+.Section_row{
+    display: flex;
+    background-color: purple;
+    padding: 100px;
+}
+
+.box_row{
+    background-color: aqua;
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+    border: black solid 3px;
+    
+}
+

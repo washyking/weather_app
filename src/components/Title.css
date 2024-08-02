@@ -1,0 +1,16 @@
+.title_div {
+    display: flex;
+    justify-content: center;
+    padding: 20px; /* Added padding for better spacing */
+    background-color: #f0f0f0; /* Optional: Add some background color */
+}
+
+.title_content {
+    color: black;
+    background-color: rgb(163, 255, 170);
+    border-radius: 8px; /* Optional: Add some border-radius for rounded corners */
+    padding: 20px;
+    text-align: center; /* Center align text */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a slight shadow for effect */
+}
+
